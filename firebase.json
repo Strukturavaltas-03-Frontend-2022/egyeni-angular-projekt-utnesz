@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "movies-of-utn",
-    "public": "dist/movies_of_mine/",
+    "public": "docs",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
